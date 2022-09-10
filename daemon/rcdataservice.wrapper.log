@@ -1,0 +1,10 @@
+2022-08-08 22:00:02 - Starting C:\Program Files\nodejs\node.exe  "E:\Node Projects\RisingChampsDataService\node_modules\node-windows\lib\wrapper.js" --file "E:\Node Projects\RisingChampsDataService\app.js" --scriptoptions= --log "RC Data Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-08-08 22:00:02 - Started 2992
+2022-08-08 22:02:43 - Starting C:\Program Files\nodejs\node.exe  "E:\Node Projects\RisingChampsDataService\node_modules\node-windows\lib\wrapper.js" --file "E:\Node Projects\RisingChampsDataService\app.js" --scriptoptions= --log "RC Data Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-08-08 22:02:43 - Started 6004
+2022-08-08 22:04:18 - Starting C:\Program Files\nodejs\node.exe  "E:\Node Projects\RisingChampsDataService\node_modules\node-windows\lib\wrapper.js" --file "E:\Node Projects\RisingChampsDataService\app.js" --scriptoptions= --log "RC Data Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-08-08 22:04:18 - Started 5408
+2022-08-24 17:16:11 - Starting C:\Program Files\nodejs\node.exe  "E:\Node Projects\RisingChampsDataService\node_modules\node-windows\lib\wrapper.js" --file "E:\Node Projects\RisingChampsDataService\app.js" --scriptoptions= --log "RC Data Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-08-24 17:16:11 - Started 6024
+2022-09-06 13:48:13 - Starting C:\Program Files\nodejs\node.exe  "E:\Node Projects\RisingChampsDataService\node_modules\node-windows\lib\wrapper.js" --file "E:\Node Projects\RisingChampsDataService\app.js" --scriptoptions= --log "RC Data Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-09-06 13:48:14 - Started 4920

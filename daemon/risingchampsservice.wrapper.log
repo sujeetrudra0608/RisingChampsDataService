@@ -1,0 +1,8 @@
+2022-08-08 21:34:54 - Starting C:\Program Files\nodejs\node.exe  "E:\Node Projects\RisingChampsDataService\node_modules\node-windows\lib\wrapper.js" --file "E:\Node Projects\RisingChampsDataService\app.js" --scriptoptions= --log "Rising Champs Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-08-08 21:34:54 - Started 6660
+2022-08-08 21:38:56 - Starting C:\Program Files\nodejs\node.exe  "E:\Node Projects\RisingChampsDataService\node_modules\node-windows\lib\wrapper.js" --file "E:\Node Projects\RisingChampsDataService\app.js" --scriptoptions= --log "Rising Champs Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-08-08 21:38:56 - Started 9128
+2022-08-08 21:39:32 - Starting C:\Program Files\nodejs\node.exe  "E:\Node Projects\RisingChampsDataService\node_modules\node-windows\lib\wrapper.js" --file "E:\Node Projects\RisingChampsDataService\app.js" --scriptoptions= --log "Rising Champs Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-08-08 21:39:32 - Started 4936
+2022-08-08 21:42:20 - Starting C:\Program Files\nodejs\node.exe  "E:\Node Projects\RisingChampsDataService\node_modules\node-windows\lib\wrapper.js" --file "E:\Node Projects\RisingChampsDataService\app.js" --scriptoptions= --log "Rising Champs Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-08-08 21:42:21 - Started 6928

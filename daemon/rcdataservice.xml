@@ -1,0 +1,30 @@
+<service>
+	<id>rcdataservice.exe</id>
+	<name>RC Data Service</name>
+	<description>The node.js web server.</description>
+	<executable>C:\Program Files\nodejs\node.exe</executable>
+	<argument>E:\Node Projects\RisingChampsDataService\node_modules\node-windows\lib\wrapper.js</argument>
+	<argument>--file</argument>
+	<argument>E:\Node Projects\RisingChampsDataService\app.js</argument>
+	<argument>--scriptoptions=</argument>
+	<argument>--log</argument>
+	<argument>RC Data Service wrapper</argument>
+	<argument>--grow</argument>
+	<argument>0.25</argument>
+	<argument>--wait</argument>
+	<argument>1</argument>
+	<argument>--maxrestarts</argument>
+	<argument>3</argument>
+	<argument>--abortonerror</argument>
+	<argument>n</argument>
+	<argument>--stopparentfirst</argument>
+	<argument>false</argument>
+	<logmode>rotate</logmode>
+	<stoptimeout>30sec</stoptimeout>
+	<serviceaccount>
+		<domain>DESKTOP-P7UTV3T</domain>
+		<user>LocalSystem</user>
+		<password></password>
+	</serviceaccount>
+	<workingdirectory>E:\Node Projects\RisingChampsDataService</workingdirectory>
+</service>
