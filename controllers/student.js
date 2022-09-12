@@ -51,6 +51,7 @@ module.exports.uploadStudentDetails = async (req, res, next) => {
 }
 
 module.exports.createPDF = async (req, res, next) => {
-     console.log("create pdf API is called");
+    console.log("create pdf API is called");
+    console.log("create pdf API is called");
     return req;
 }
