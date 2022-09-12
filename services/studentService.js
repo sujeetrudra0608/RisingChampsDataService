@@ -31,19 +31,7 @@ module.exports.create = async (req) => {
 
 module.exports.update = async (req) => {
     console.log(req.body);
-    const user = new User({
-        name: req.body.name,
-        email: req.body.email,
-        password: req.body.password
-    });
-
-    try {
-        const savedUser = await user.save();
-        req.response.data = savedUser;
-        return req;
-    } catch (err) {
-        return req;
-    }
+    return req;
 };
 
 module.exports.delete = async (req) => {
