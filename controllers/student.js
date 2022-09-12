@@ -50,6 +50,6 @@ module.exports.uploadStudentDetails = async (req, res, next) => {
     }
 }
 
-module.exports.createPDF = async () => {
-    
+module.exports.createPDF = async (req, res, next) => {
+    return req;
 }
